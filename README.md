@@ -15,5 +15,6 @@ Repositorio Módulo 2 Machine Learning
 * Nos mostrara la gráfica y sus predicciones.
 
 # Análisis del modelo
-* Podemos descargar el archivo pdf que se encuentra en el repositorio que se llama "Análisis Video Games Sales Model.pdf" para visualizarlo.
+* Podemos entrar a la carpeta de analisis que se encuentra en el repositorio que se llama "analisis".
+* Ahí encontraremos el archivo del análisis en pdf "Análisis Video Games Sales Model.pdf" y el nootbook "Análisis Video Game Model.ipynb".
 * También podemos abrir el archivo dentro del repositorio y de igual forma visualizarlo.
